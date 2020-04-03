@@ -21,4 +21,4 @@ spring:
       hibernate.generate_statistics: false
      
 environment:
-  a: Hi from GitHub!
+  a: Hola desde GitHub!
