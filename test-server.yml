@@ -20,3 +20,5 @@ spring:
       hibernate.cache.region.factory_class: org.hibernate.cache.ehcache.EhCacheRegionFactory
       hibernate.generate_statistics: false
      
+environment:
+  a: Hi from GitHub!
